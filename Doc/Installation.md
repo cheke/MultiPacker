@@ -19,7 +19,7 @@
 
 -Create on the Project Folder a new Folder called "Plugins".
 
-![Image](/blob/master/Doc/2-Plugin.jpg)
+![Image](/Doc/2-Plugin.jpg)
 
 -Unzip the Downloaded Plugin inside the Pugins folder
 
