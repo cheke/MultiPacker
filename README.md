@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## MultiPacker Documentation
+[editor on GitHub](https://github.com/cheke/MultiPacker/edit/master/README.md)
+MultiPacker is an Unreal Engine 4 Plugin editor for manipulate Textures and Bake Materials, Channel Packing or SDF Images; everything done inside Unreal Engine. 
 
-You can use the [editor on GitHub](https://github.com/cheke/MultiPacker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Its greatly helpful for Mobile Projects, allowing a great save of texture memory. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+More than Pack Textures and Materials, MultiPacker have a lot of tools to give a faster creation and iteration of content. Features an easy system to make on the fly UMG Buttons and Images, Variables are exposed to Animate and do some fancy animations.
 
 ### Markdown
 
