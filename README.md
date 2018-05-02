@@ -7,7 +7,7 @@ More than Pack Textures and Materials, MultiPacker have a lot of tools to give a
 
 ### Links
 
-- [Installation](/Doc/Installation)
+- [Installation](https://github.com/cheke/MultiPacker/Doc/Installation)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
