@@ -19,7 +19,7 @@
 
 -Create on the Project Folder a new Folder called "Plugins".
 
-![Image](https://github.com/cheke/MultiPacker/blob/master/Doc/2-Plugin.jpg)
+![Image](/blob/master/Doc/2-Plugin.jpg)
 
 -Unzip the Downloaded Plugin inside the Pugins folder
 
