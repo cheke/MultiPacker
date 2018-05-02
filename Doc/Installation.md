@@ -15,11 +15,12 @@ MultiPacker are on [Unreal Engine Marketplace](https://www.unrealengine.com/mark
 -You need an Unreal Engine C++ project.
 
 -Create on the Project Folder a new Folder called "Plugins".
+
 ![Image](https://github.com/cheke/MultiPacker/blob/master/Doc/2-Plugin.jpg)
-![useful image]({{ https://github.com }}/cheke/MultiPacker/blob/master/Doc/2-Plugin.jpg)
 -Unzip the Downloaded Plugin inside the Pugins folder
 
 -Generate the Visual Studio Project files
+
 ![Image](https://github.com/cheke/MultiPacker/blob/master/Doc/4_generate.jpg)
 
 -You need to enable MultiPacker inside the Unreal Engine Project
