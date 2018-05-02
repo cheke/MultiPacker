@@ -8,6 +8,10 @@
 
 -Scroll down and click Install to Engine.
 
+-At this moment you will have the plugin on your Unreal Engine Vault
+
+![Image](/Images/Marketplace.jpg)
+
 -An Install to Engine dialog box will appear; select the version(s) of Unreal Engine 4 to which you want to add the MultiPacker Plugin. Click Install.
 
 -You need to enable MultiPacker inside the Unreal Engine Project you want to use
@@ -19,13 +23,13 @@
 
 -Create on the Project Folder a new Folder called "Plugins".
 
-![Image](/Doc/2-Plugin.jpg)
+![Image](/Images/2-Plugin.jpg)
 
 -Unzip the Downloaded Plugin inside the Pugins folder
 
 -Generate the Visual Studio Project files
 
-![Image](/Doc/4_generate.jpg)
+![Image](/Images/4_generate.jpg)
 
 -You need to enable MultiPacker inside the Unreal Engine Project
 
