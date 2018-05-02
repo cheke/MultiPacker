@@ -1,4 +1,4 @@
-## MultiPacker Documentation
+## MultiPacker
 [editor on GitHub](https://github.com/cheke/MultiPacker/edit/master/README.md)
 MultiPacker is an Unreal Engine 4 Plugin editor for manipulate Textures and Bake Materials, Channel Packing or SDF Images; everything done inside Unreal Engine. 
 
@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cheke/MultiPacker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
