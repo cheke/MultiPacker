@@ -11,6 +11,9 @@
 -An Install to Engine dialog box will appear; select the version(s) of Unreal Engine 4 to which you want to add the MultiPacker Plugin. Click Install.
 
 -You need to enable MultiPacker inside the Unreal Engine Project you want to use
+
+-Done
+
 ## Gumroad
 -You need an Unreal Engine C++ project.
 
@@ -25,5 +28,7 @@
 ![Image](https://github.com/cheke/MultiPacker/blob/master/Doc/4_generate.jpg)
 
 -You need to enable MultiPacker inside the Unreal Engine Project
+
+-Done
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
