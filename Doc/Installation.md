@@ -1,4 +1,4 @@
-## Installation
+# Installation
 
 **MultiPacker** are on [**Unreal Engine Marketplace**](https://www.unrealengine.com/marketplace/multipacker-texture-and-material-packer?sessionInvalidated=true) and [**Gumroad**](https://gumroad.com/products/cYyEo/edit)
 ## MarketPlace
