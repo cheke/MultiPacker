@@ -25,7 +25,7 @@
 
 -Generate the Visual Studio Project files
 
-![Image](https://github.com/cheke/MultiPacker/blob/master/Doc/4_generate.jpg)
+![Image](/Doc/4_generate.jpg)
 
 -You need to enable MultiPacker inside the Unreal Engine Project
 
