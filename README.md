@@ -30,17 +30,17 @@ More than Pack Textures and Materials, MultiPacker have a lot of tools to give a
 
 - [Graph](https://cheke.github.io/MultiPacker/Doc/Graph)
 
-- [Basic Knowledge](https://cheke.github.io/MultiPacker/Doc/Graph)
+- [Basic Knowledge](https://cheke.github.io/MultiPacker/Doc/Basic)
 
-- [Output Options](https://cheke.github.io/MultiPacker/Doc/Graph)
+- [Output Options](https://cheke.github.io/MultiPacker/Doc/OutputOptions)
 
-- [Output Assets](https://cheke.github.io/MultiPacker/Doc/Graph)
+- [Output Assets](https://cheke.github.io/MultiPacker/Doc/OutputAssets)
 
-- [Nodes Options](https://cheke.github.io/MultiPacker/Doc/Graph)
+- [Nodes Options](https://cheke.github.io/MultiPacker/Doc/NodesOptions)
 
-- [UMG](https://cheke.github.io/MultiPacker/Doc/Graph)
+- [UMG](https://cheke.github.io/MultiPacker/Doc/Umg)
 
-- [DataBase Names](https://cheke.github.io/MultiPacker/Doc/Graph)
+- [DataBase Names](https://cheke.github.io/MultiPacker/Doc/DatabaseNames)
 
-- [Material Functions](https://cheke.github.io/MultiPacker/Doc/Graph)
+- [Material Functions](https://cheke.github.io/MultiPacker/Doc/MaterialFunctions)
 
