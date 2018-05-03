@@ -32,7 +32,7 @@ MultiPacker has different Options to save the Output Texture: Atlas, One, Multip
 
 - The default Option on MultiPacker is to save the *Tiles* as Tiled, this allows you to save every *Tile* with the same size on a fast way if a resize is needed is done on the fly; Bin Packing method aka *"Rectangle Tiles"* on MultiPacker Graph is a method to save the *Tiles* with different sizes on the same Texture, this method can be used on every **Channel Method**.
 
-![Tiled](/Images/Tiled.jpg) ![BinPack](/Images/Binpack.jpg)
+![Tiled](/Images/Tiled.jpg) ![BinPack](/Images/binpack.jpg)
 
 -SDF
 
