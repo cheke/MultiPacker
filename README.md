@@ -28,7 +28,7 @@ More than Pack Textures and Materials, MultiPacker have a lot of tools to give a
 
 - [Installation](https://cheke.github.io/MultiPacker/Doc/Installation)
 
-  [MarketPlace](https://cheke.github.io/MultiPacker/Doc/Installation) [Gumroad](https://cheke.github.io/MultiPacker/Doc/Installation)
+  [MarketPlace & Gumroad](https://cheke.github.io/MultiPacker/Doc/Installation)
 
 - [Graph](https://cheke.github.io/MultiPacker/Doc/Graph)
 
