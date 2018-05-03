@@ -39,7 +39,11 @@ MultiPacker has different Options to save the Output Texture: *Atlas*, *One*, *M
 - The *Signed Distant Field* is a Option who can be enabled on the Nodes or as the *One_Sdf* **Channel Method**.
 The SDF is a method who allows an final Output Mask Resizable like a vector Image with a cost almost free, *Tiles* as masks lost their gradients but can be saved on a very low size and mantaining quality of details *(32px ,64px)*.
 
-![sdfTexture](/Images/sdfTexture.jpg) ![sdfMaterial](/Images/sdfMaterial.jpg)
+-This is the Texture on the real Size Resolution, On the Left the SDF texture and on the Right the Initial Texture.
+![sdfTexture](/Images/sdfTexture.jpg) 
+
+-Here is the result of a Material Processing the texture, you can see the look of the SDF Texture on a magnification of ≈10x
+![sdfMaterial](/Images/sdfMaterial.jpg)
 
 ### *Flipbook*
 
