@@ -8,7 +8,7 @@
 
 ### **Channels**
 
-MultiPacker has different Options to save the Output Texture: Atlas, One, Multiple and One_Sdf(this last do the same as One but all the *Tiles* will be converted to a mask Sdf).
+MultiPacker has different Options to save the Output Texture: *Atlas*, *One*, *Multiple* and *One_Sdf* (this last do the same as One but all the *Tiles* will be converted to a mask Sdf).
 
 ### Atlas
 
@@ -34,8 +34,17 @@ MultiPacker has different Options to save the Output Texture: Atlas, One, Multip
 
 ![Tiled](/Images/Tiled.jpg) ![BinPack](/Images/binpack.jpg)
 
--SDF
+### *SDF*
 
--Flipbook
+- The *Signed Distant Field* is a Option who can be enabled on the Nodes or as the *One_Sdf* **Channel Method**.
+The SDF is a method who allows an final Output Mask Resizable like a vector Image with a cost almost free, *Tiles* as masks lost their gradients but can be saved on a very low size and mantaining quality of details *(32px ,64px)*.
+
+![sdfTexture](/Images/sdfTexture.jpg) ![sdfMaterial](/Images/sdfMaterial.jpg)
+
+### *Flipbook*
+
+-The Flipbook is a set of frames of an animation Tiled in order on the same Texture, MultiPacker allows the creation and modification of the Flipbooks, all this is functional at the version 1.04 (03/05/2018) but will be polished and documented better on a future.
+
+![flipbook](/Images/flipbook.jpg)
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
