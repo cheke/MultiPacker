@@ -32,8 +32,8 @@ On this Category you can select the Size for every individual Tile for the Defau
 On a future workaround and addition I will do a change on all the methods to starting to BinPacking the *Tiles* starting from the *Tiles* more bigger to smaller to allow a better allocation.
 ```
 
-- **Output Size X**: From a Dropdown selection you can set the Horizontal Size of the Texture Output.
+- **Output Size X**: From a Dropdown selection you can set the Horizontal/Width Size of the Texture Output.
 
-- **Output Size Y**: From a Dropdown selection you can set the Vertical Size of the Texture Output.
+- **Output Size Y**: From a Dropdown selection you can set the Vertical/Height Size of the Texture Output.
 
 ![c_to_outputsize](/Images/c_to_outputsize.jpg)
