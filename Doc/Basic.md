@@ -42,7 +42,7 @@ The SDF is a method who allows an final Output Mask Resizable like a vector Imag
 -This is the Texture on the real Size Resolution, On the Left the SDF texture and on the Right the Initial Texture.
 ![sdfTexture](/Images/sdfTexture.jpg) 
 
--Here is the result of a Material Processing the texture, you can see the look of the SDF Texture on a magnification of ≈10x
+-Here is the result of a Material Processing the texture, you can see the look of the SDF Texture on a magnification of ≈10x, the texture part is jaggy and difused.
 ![sdfMaterial](/Images/sdfMaterial.jpg)
 
 ### *Flipbook*
