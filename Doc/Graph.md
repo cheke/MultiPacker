@@ -12,6 +12,7 @@ The MultiPacker Graph looks and works like the Material Graph but with have some
 1. Toolbar Menu
 
     An explanation of the different buttons:
+
     1.1. "Apply Changes" Process the Graph.
 
     1.2. "Graph settings" show on the Details Panel the propertys of the graph.
@@ -24,6 +25,16 @@ The MultiPacker Graph looks and works like the Material Graph but with have some
 
 2. Graph Nodes
 
+    Here you will have the Textures and Material Nodes to Process then and Make the Output Texture.
+
+    Texture Nodes have 6 pins to select manually the Channel where you like to extract the Texture Information, also on the Details Panel for the Texture Node you can set the PinOutput.
+
 3. Content Browser
+    
+    This is like a normal Content Browser from the Editor, you can drag and drop Textures and Materials to the Graph, You can drop a Selection at the same time.
 
 4. Details Panel
+    
+    On this Panel all the Information related to the Graph and the Nodes will show up, here you can change all the options.
+
+[**Home Docs**](https://cheke.github.io/MultiPacker)
