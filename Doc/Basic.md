@@ -45,6 +45,7 @@ The SDF is a method who allows an final Output Mask Resizable like a vector Imag
 
 -The Flipbook is a set of frames of an animation Tiled in order on the same Texture, MultiPacker allows the creation and modification of the Flipbooks, all this is functional at the version 1.04 (03/05/2018) but will be polished and documented better on a future.
 
+-Example of Flipbook from Unreal Engine Basic Content
 ![flipbook](/Images/flipbook.jpg)
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
