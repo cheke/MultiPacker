@@ -37,3 +37,37 @@ On a future workaround and addition I will do a change on all the methods to sta
 - **Output Size Y**: From a Dropdown selection you can set the Vertical/Height Size of the Texture Output.
 
 ![c_to_outputsize](/Images/c_to_outputsize.jpg)
+
+## Output Config
+
+![c_oc](/Images/c_oc.jpg)
+
+### Channels Options
+
+![c_oc_channelOptions](/Images/c_oc_channelOptions.jpg)
+
+- **Channel Method**: From a Dropdown selection you can select the method to save the *Tiles* on the Output Texture.
+The Methods are explained here [Basic Knowledge](https://cheke.github.io/MultiPacker/Doc/Basic).
+
+![c_oc_channelOptions-expanded](/Images/c_oc_channelOptions-expanded.jpg)
+
+- **Alpha**: This Enables or Disables the Alpha Channel on the Output Texture.
+
+### Save Data
+
+This Subcategory manages the creation of the MultiPacker Database and Material Collection Assets from the Graph, you can deselect then and dont be created and saved. By default are enabled.
+
+![c_oc_savedata](/Images/c_oc_savedata.jpg)
+
+- **Save Material Collection**: Enables the creation of the Material Collection Asset with the Data from the Graph.
+
+- **Save Database**: Enables the creation of the Database Asset with the Data from the Graph.
+
+### Location
+
+Location has some variables to change the destination location where the Output Assets will be saved and the base name for all of them.
+
+- **Target Directory**: 
+![c_oc_location](/Images/c_oc_location.jpg)
+
+[**Home Docs**](https://cheke.github.io/MultiPacker)
