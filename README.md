@@ -9,6 +9,8 @@ More than Pack Textures and Materials, MultiPacker have a lot of tools to give a
 
 - [Installation](https://cheke.github.io/MultiPacker/Doc/Installation)
 
+- [Graph](https://cheke.github.io/MultiPacker/Doc/Graph)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
