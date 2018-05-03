@@ -7,17 +7,18 @@ More than Pack Textures and Materials, MultiPacker have a lot of tools to give a
 ## Features:
 
 ```
--Pack Textures By Channels
--Do Texture Atlas from Tiles or Irregular shapes
--Options to Save on RGB/RGBA, by channel(allowing degradations), or a experimental method who saves 3 Masks by channel(No Degradation allowed)
--Can do SDF from Masks 
--Bake Materials and Material Instances to Textures
--Can make a series of Material Bake programmatically easily
--Can create Flipbooks
--Data saved on a Material Collection and on a MultiPackerDatabase
--With the Material Collection and a set of Material Function you can extract the Texture and use on Materials
--With the MultiPackerDatabase you can make Runtime Icons and Buttons and Animate It
--Material Functions to Personal Material uses
+-Pack Textures By Channels.
+-Do Texture Atlas from Tiles or Irregular shapes.
+-Options to Save on RGB/RGBA, by channel(allowing degradations), or a experimental method who saves 3 Masks
+ by channel(No Degradation allowed).
+-Can do SDF from Masks.
+-Bake Materials and Material Instances to Textures.
+-Can make a series of Material Bake programmatically easily.
+-Can create Flipbooks.
+-Data saved on a Material Collection and on a MultiPackerDatabase.
+-With the Material Collection and a set of Material Function you can extract the Texture and use on Materials.
+-With the MultiPackerDatabase you can make Runtime Icons and Buttons and Animate It.
+-Material Functions to Personal Material uses.
 ```
 
 ## Links
