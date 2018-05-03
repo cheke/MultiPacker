@@ -26,6 +26,8 @@ On this Category you can select the Size for every individual Tile for the Defau
 - BottomLeftRule: Does the Tetris placement.
 - ContactPointRule: Choosest the placement where the rectangle touches other rects as much as possible.
 ```
+![c_to_rectanglemethod](/Images/c_to_rectanglemethod.jpg)
+
 ```
 On a future workaround and addition I will do a change on all the methods to starting to BinPacking the *Tiles* starting from the *Tiles* more bigger to smaller to allow a better allocation.
 ```
@@ -33,3 +35,5 @@ On a future workaround and addition I will do a change on all the methods to sta
 - **Output Size X**: From a Dropdown selection you can set the Horizontal Size of the Texture Output.
 
 - **Output Size Y**: From a Dropdown selection you can set the Vertical Size of the Texture Output.
+
+![c_to_outputsize](/Images/c_to_outputsize.jpg)
