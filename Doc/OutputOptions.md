@@ -21,14 +21,14 @@ On this Category you can select the Size for every individual Tile for the Defau
 - **Rectangle Method**: From a Dropdown of different methods you can set wath method is more convenient to you.
 
 ```
-- BestShortSideFit: Positions the rectangle against the short side
+- **BestShortSideFit**: Positions the rectangle against the short side
 of a free rectangle into which it fits the best.
-- BestLongSideFit: Positions the rectangle against the long side
+- **BestLongSideFit**: Positions the rectangle against the long side
 of a free rectangle into which it fits the best.
-- BestAreaFit: Positions the rectangle into the smallest free 
+- **BestAreaFit**: Positions the rectangle into the smallest free 
 rect into which it fits.
-- BottomLeftRule: Does the Tetris placement.
-- ContactPointRule: Choosest the placement where the rectangle 
+- **BottomLeftRule**: Does the Tetris placement.
+- **ContactPointRule**: Choosest the placement where the rectangle 
 touches other rects as much as possible.
 ```
 
@@ -36,8 +36,8 @@ touches other rects as much as possible.
 
 ```
 On a future workaround and addition I will do a change on all the
-methods to starting to BinPacking the *Tiles* starting from the 
-*Tiles* more bigger to smaller to allow a better allocation.
+methods to starting to BinPacking the Tiles starting from the 
+Tiles more bigger to smaller to allow a better allocation.
 ```
 
 - **Output Size X**: From a Dropdown selection you can set the Horizontal/Width Size of the Texture Output.
