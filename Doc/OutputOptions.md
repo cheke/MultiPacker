@@ -19,17 +19,25 @@ On this Category you can select the Size for every individual Tile for the Defau
 - **Rectangle Tiles**: This enables the Bin packing method, every *Tile* can have a different size and will be setted on the Output Texture by the method of BinPacking Selected.
 
 - **Rectangle Method**: From a Dropdown of different methods you can set wath method is more convenient to you.
+
 ```
-- BestShortSideFit: Positions the rectangle against the short side of a free rectangle into which it fits the best.
-- BestLongSideFit: Positions the rectangle against the long side of a free rectangle into which it fits the best.
-- BestAreaFit: Positions the rectangle into the smallest free rect into which it fits.
+- BestShortSideFit: Positions the rectangle against the short side
+of a free rectangle into which it fits the best.
+- BestLongSideFit: Positions the rectangle against the long side
+of a free rectangle into which it fits the best.
+- BestAreaFit: Positions the rectangle into the smallest free 
+rect into which it fits.
 - BottomLeftRule: Does the Tetris placement.
-- ContactPointRule: Choosest the placement where the rectangle touches other rects as much as possible.
+- ContactPointRule: Choosest the placement where the rectangle 
+touches other rects as much as possible.
 ```
+
 ![c_to_rectanglemethod](/Images/c_to_rectanglemethod.jpg)
 
 ```
-On a future workaround and addition I will do a change on all the methods to starting to BinPacking the *Tiles* starting from the *Tiles* more bigger to smaller to allow a better allocation.
+On a future workaround and addition I will do a change on all the
+methods to starting to BinPacking the *Tiles* starting from the 
+*Tiles* more bigger to smaller to allow a better allocation.
 ```
 
 - **Output Size X**: From a Dropdown selection you can set the Horizontal/Width Size of the Texture Output.
@@ -113,7 +121,14 @@ Here you can change the parameters for the Output Texture(s)
 
 The Unreal Engine Explanation is:
 ```
-Sets whether the Texture should be gamma (un)corrected or not. Regular diffuse Textures and basically anything you use for display as color values should have this set to true. It is usually disabled for cases where the Texture color values have a specific meaning and you rely on those values to be that way as they were set, e.g. via code. Normal maps should have this set to false as their color values are to be interpreted as a direction and thus should not be gamma corrected.
+Sets whether the Texture should be gamma (un)corrected or not. 
+Regular diffuse Textures and basically anything you use for 
+display as color values should have this set to true. It is 
+usually disabled for cases where the Texture color values
+have a specific meaning and you rely on those values to be
+that way as they were set, e.g. via code. Normal maps should
+have this set to false as their color values are to be 
+interpreted as a direction and thus should not be gamma corrected.
 ```
 
 - **Tex Address X**: Sets the addressing mode of the Texture's X axis.
