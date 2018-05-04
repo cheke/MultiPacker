@@ -67,7 +67,36 @@ This Subcategory manages the creation of the MultiPacker Database and Material C
 
 Location has some variables to change the destination location where the Output Assets will be saved and the base name for all of them.
 
-- **Target Directory**: 
 ![c_oc_location](/Images/c_oc_location.jpg)
+
+- **Target Directory**: This variable will open a window where you will select the desired location to save the Assets.
+
+- **Target Name**: Variable to set the Base Name for all the Assets created by the Graph the Assets will differ with their prefix.
+
+### Prefix
+
+This allows you to change the Prefix on the created Assets to mantain a constant *Naming Convention* on your project.
+
+![c_oc_prefix](/Images/c_oc_prefix.jpg)
+
+- **Edit Prefix**: Enables change the Prefix.
+
+- **Database Prefix**: Change the Prefix for the MultiPacker Database Aseet.
+
+- **Texture Prefix**: Change the Prefix for the Output Texture Asset.
+
+- **MaterialCollection Prefix**: Change the Prefix for the Material Collection Asset.
+
+### RenderTargets Internal
+
+Here you set the Pixel Quality for the Render Targets invilved on the Creation of the Output Texture; the Internals of this process will be described on a future.
+
+![c_oc_renderTargetInternal](/Images/c_oc_renderTargetInternal.jpg)
+
+- **Edit RT**: Enables change the RenderTargets.
+
+- **RT Pixel Format**: Changes the format for the Rendertargets, this is intended to people who needed it, I dont have information about the ussage of the variables, can be enabled on special scenarios.
+
+ ![c_oc_renderTargetInternal-expanded](/Images/c_oc_renderTargetInternal-expanded.jpg)
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
