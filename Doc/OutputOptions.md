@@ -99,4 +99,27 @@ Here you set the Pixel Quality for the Render Targets invilved on the Creation o
 
  ![c_oc_renderTargetInternal-expanded](/Images/c_oc_renderTargetInternal-expanded.jpg)
 
+### Texture Output
+
+Here you can change the parameters for the Output Texture(s)
+
+![c_oc_textureOutput](/Images/c_oc_textureOutput.jpg)
+
+- **Edit Texture**: Enables change parameters for the Texture(s).
+
+- **Texture Filter**: Filter to apply on the Output Texture. The *Multiple* Channel Method requires *Nearest*.
+
+- **Tex SRGB**: Enables the ussage of SRGB color. *SDF*, *Multiple* requires this disabled. 
+
+The Unreal Engine Explanation is:
+```
+Sets whether the Texture should be gamma (un)corrected or not. Regular diffuse Textures and basically anything you use for display as color values should have this set to true. It is usually disabled for cases where the Texture color values have a specific meaning and you rely on those values to be that way as they were set, e.g. via code. Normal maps should have this set to false as their color values are to be interpreted as a direction and thus should not be gamma corrected.
+```
+
+- **Tex Address X**: Sets the addressing mode of the Texture's X axis.
+
+- **Tex Address Y**: Sets the addressing mode of the Texture's Y axis.
+
+- **Tex Power**: Dropdown for how to pad the texture to a power of 2 size (if necessary).
+
 [**Home Docs**](https://cheke.github.io/MultiPacker)
