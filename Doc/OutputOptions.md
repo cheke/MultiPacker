@@ -137,4 +137,18 @@ interpreted as a direction and thus should not be gamma corrected.
 
 - **Tex Power**: Dropdown for how to pad the texture to a power of 2 size (if necessary).
 
+### OutPut Data
+
+![c_od](/Images/c_od.jpg)
+
+Here will be the references to the Output Assets saved, you can expand the Texture Output to shoe the different Textures.
+
+- **Texture Output**: Array who shows the Output Textures.
+
+![c_od_expanded](/Images/c_od_expanded.jpg)
+
+- **Database**: Database Output saved.
+
+- **Material Collection**: Material Collection Output saved. 
+
 [**Home Docs**](https://cheke.github.io/MultiPacker)
