@@ -7,7 +7,11 @@ for UMG you get the Name from a Dropdown selector and all the data its loaded(Te
 
 ![nameTex](/Images/nameTex.jpg)
 
+- Name on the MultiPacker Database
+
 ![nameDatabase](/Images/nameDatabase.jpg)
+
+- Name on the Material Collection
 
 ![nameCollection](/Images/nameCollection.jpg)
 
