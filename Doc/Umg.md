@@ -72,7 +72,7 @@
 
 # MultiPacker Button
 
-- Multipacker Button has the same variables as MultiPacker Image, only extended to the states of the button Normal, Hovered, Pressed and Disables. To a better knowledge of the ussage of the variables look at [MultiPacker Image](https://cheke.github.io/MultiPacker)
+- Multipacker Button has the same variables as MultiPacker Image, only extended to the states of the button Normal, Hovered, Pressed and Disables. To a better knowledge of the ussage of the variables look at [MultiPacker Image](https://cheke.github.io/Doc/Umg.md#multipacker-image)
 
 ![umg-b](/Images/umg-b.jpg)
 
