@@ -86,4 +86,88 @@ Color Output.
 
 Alpha/Opacity Output.
 
+### MF_Icon_Color_opacity(*_M*)
+
+![mfcoloropacity](/Images/mfcoloropacity.jpg)
+
+- **Color_Channel(V4)**: (Vector4) *(Required by _M Version)*
+
+Defines on a vector the Channel to get the Color *Tile*. Ex: Red = 1,0,0,0 , Alpha = 0,0,0,1 .
+
+- **Color_Layers(V4)**: (Vector4) *(Required by _M Version)*
+
+Defines on a vector the Layer to get the Color *Tile* (only for the method Multiple). Ex: A = 1,0,0,0 , C = 0,0,1,0 .
+
+- **Color_BooleansTiled(V3)**: (Vector3) *(Required by _M Version)*
+
+Bypass on a vector booleans to get the final Color *Tile*. vector.channel>0 = true , Red(Default)= Atlas , Green = *Tile* set on a Channel, Blue = *Tile* set on a Layer (only for the method Multiple).
+
+- **Color_Texture(T2d)**: (Texture sample) *(Required by both)*
+
+Texture Sample who have the Output *Tiles* of MultiPacker.
+
+- **Color_SizePadding(V4)**: (Vector4) *(Required by both)*
+
+Vector precalculated where indicates the location on the Texture of the Color *Tile*.
+
+- **ColorInterior(V3)**: (Vector3)
+
+Color to fill the interior of the shape.
+
+- **ColorOutline(V3)**: (Vector3)
+
+Color to fill the Outline of the shape (only works on SDF *Tiles*).
+
+- **Color_IsSdf(S)**: (Scalar) *(Required by both)*
+
+Indicates if the Color Shape is a SDF. Boolean bypass on a Scalar, 0 = false (Atlas), 1 = true (SDF), 2 = Color.
+
+- **Opacity_IsSdf(S)**: (Scalar) *(Required by both)*
+
+Indicates if the Opacity Shape is a SDF. Boolean bypass on a Scalar, 0 = false, 1 = true.
+
+- **EdgeSoftness(S)**: (Scalar)
+
+Level of softness on the border of the SDF Shape.
+
+- **OutlineThresold(S)**: (Scalar)
+
+Width of the Outline for the SDF Shape.
+
+- **SdfOutline(S)**: (Scalar)
+
+Boolean bypass on a Scalar, 0 = false, 1 = true. 
+
+- **Opacity_Channel(V4)**: (Vector4) *(Required by _M Version)*
+
+Defines on a vector the Channel to get the Opacity *Tile*. Ex: Red = 1,0,0,0 , Alpha = 0,0,0,1 .
+
+- **Opacity_Layers(V4)**: (Vector4) *(Required by _M Version)*
+
+Defines on a vector the Layer to get the Opacity *Tile* (only for the method Multiple). Ex: A = 1,0,0,0 , C = 0,0,1,0 .
+
+- **Opacity_BooleansTiled(V3)**: (Vector3) *(Required by _M Version)*
+
+Bypass on a vector booleans to get the Opacity *Tile*. vector.channel>0 = true , Red(Default)= Atlas , Green = *Tile* set on a Channel, Blue = *Tile* set on a Layer (only for the method Multiple).
+
+- **Opacity_Texture(T2d)**: (Texture sample) *(Required by both)*
+
+Texture Sample who have the Output *Tiles* of MultiPacker.
+
+- **Opacity_SizePadding(V4)**: (Vector4) *(Required by both)*
+
+Vector precalculated where indicates the location on the Texture of the Opacity *Tile*.
+
+- **SDFThresold(S)**: (Scalar)
+
+Width of the Shape of the SDF.
+
+- **Emissive (Output)**: (Vector3)
+
+Color Output.
+
+- **Opacity (Output)**: (Scalar)
+
+Alpha/Opacity Output.
+
 [**Home Docs**](https://cheke.github.io/MultiPacker)
