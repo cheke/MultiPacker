@@ -65,8 +65,8 @@
 ![TN-tntd-anf](/Images/TN-tntd-anf.jpg)
 
 ```
-- GetNameFromTexture: Get and set the name of the texture as the name
-of the *Tile*.
+- GetNameFromTexture: Get and set the name of the texture as the
+name of the *Tile*.
 - GetNameFromTextureWithAlphaSufix: Get and set the name of the
 texture with an sufix alpha as the name of the *Tile*. 
 ```
@@ -147,8 +147,9 @@ Default position.
 ```
 - Parameter Name: Name of the Vector (Non editable).
 - Default Vector Value: Vector to set on the Material.
-- Value Changes on Time: If enabled do a linear interpolation between
-the Default Vector and the Max Vector depending on the NumPrint.
+- Value Changes on Time: If enabled do a linear interpolation
+between the Default Vector and the Max Vector depending on
+the NumPrint.
 - Max Vector Value: Vector goal to be on the last NumPrint.
 ```
 
@@ -164,8 +165,9 @@ the Default Vector and the Max Vector depending on the NumPrint.
 ```
 - Parameter Name: Name of the Scalar (Non editable).
 - Default Value: Scalar to set on the Material.
-- Value Changes on Time: If enabled do a linear interpolation between 
-the Default Scalar and the Max Scalar depending on the NumPrint.
+- Value Changes on Time: If enabled do a linear interpolation
+between the Default Scalar and the Max Scalar depending on
+the NumPrint.
 - Max Value: Scalar goal to be on the last NumPrint.
 ```
 ## Material Node Time Parameters
@@ -189,8 +191,8 @@ the Default Scalar and the Max Scalar depending on the NumPrint.
 - **Auto Name Fill**: Dropdown who allows to get the name of the Material to auto set as the name. 
 
 ```
-- GetNameFromTexture: Get and set the name of the Material as the name
-of the *Tile*.
+- GetNameFromTexture: Get and set the name of the Material as the
+name of the *Tile*.
 - GetNameFromTextureWithAlphaSufix: Get and set the name of the
 Material with an sufix alpha as the name of the *Tile*. 
 ```
