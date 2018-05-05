@@ -78,6 +78,44 @@
 
 # Material Node
 
+- The Material Node its the node to modify the input data *Tile* from the Material or Material Instance, the Material Node has some variables in common with the Texture Node.
+
 ![MaterialNode](/Images/MaterialNode.jpg)
+
+- Details Panel
+
+![TM](/Images/TM.jpg)
+
+## Material Node
+
+![TM-mn](/Images/TM-mn.jpg)
+
+- **Material Base Input**: Reference to the Material or Material Instance Input to work as a *Tile*.
+
+- **SDF**: Enables process the Material as a Signed Distant Field.
+
+- **Material Instance**: Can be enabled to made a Instance from the Material Base and Change the Parameters on the Details Panel.
+
+### Tiled Options
+
+- On this Subcategory you defines the Number of Columns and Rows if the Input Material have a Tiled set of Textures inside and you want to extract then as individual *Tiles*, everyone will have a name.
+
+- **Atlas**: Enable this is you like to get from the Material more than one *Tile*.
+
+- **Tiles Vertical**: Number of Columns to divide the Input Material.
+
+- **Tiles Horizontal**: Number of Rows to divide the Input Material.
+
+### Non Square Size
+
+- This Subcategory allows set the size for Material with different width than height, resize or modify by needs. Is enabled only if the Graph has Enabled the option *Rectangle Tiles*.
+
+- **Rectangle Size**: Shows if *Rectangle Tiles* on the Graph are Enabled.(Only visible non editable)
+
+- **Set Size by Parameter**: Dropdown to set from a list of sizes a value to the vertical and the horizontal sizes.
+
+- **Size Vertical**: Height size of the *Tile*.
+
+- **Size Horizontal**: Width size of the *Tile*.
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
