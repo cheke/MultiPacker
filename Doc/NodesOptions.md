@@ -58,6 +58,20 @@
 
 ![TN-tntd](/Images/TN-tntd.jpg)
 
+- Category where you set the name of every individual *Tile* coming from the Texture.
+
+- **Auto Name Fill**: Dropdown who allows to get the name of the Texture to auto set as the name. 
+
+![TN-tntd-anf](/Images/TN-tntd-anf.jpg)
+
+- GetNameFromTexture: Get and set the name of the texture as the name of the *Tile*.
+
+- GetNameFromTextureWithAlphaSufix: Get and set the name of the texture with an sufix alpha as the name of the *Tile*. 
+
+- **ATex Tile Data**: Array where the information about the *Tiles* and their respectives names can be modified.
+
+![TN-tntd-atd](/Images/TN-tntd-atd.jpg)
+
 # Material Node
 
 ![MaterialNode](/Images/MaterialNode.jpg)
