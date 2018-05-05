@@ -163,6 +163,8 @@
 ```
 ## Material Node Time Parameters
 
+![TM-mntp](/Images/TM-mntp.jpg)
+
 - Category to Change the Time Parameter on the Material. Not the *Material Time node*, this is a scalar node named Time on the Material to work with this method to simulates the *Material Time node* and allows print the Material between times or on a specified time.
 
 - **Time Parameter**: Enable to can change the Period or the Specific Time.
