@@ -72,6 +72,10 @@
 
 ![TN-tntd-atd](/Images/TN-tntd-atd.jpg)
 
+- **Tile Texture**: Preview RenderTarget of the *Tile*, shows up after the graph is processed.
+
+- **Tile Name**: Name editable of the *Tile*.
+
 # Material Node
 
 ![MaterialNode](/Images/MaterialNode.jpg)
