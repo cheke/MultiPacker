@@ -64,14 +64,26 @@ Indicates if the Opacity Shape is a SDF. Boolean bypass on a Scalar, 0 = false, 
 
 - **EdgeSoftness(S)**: (Scalar)
 
+Level of softness on the border of the SDF Shape.
+
 - **OutlineThresold(S)**: (Scalar)
+
+Width of the Outline for the SDF Shape.
 
 - **SdfOutline(S)**: (Scalar)
 
+Boolean bypass on a Scalar, 0 = false, 1 = true. 
+
 - **SDFThresold(S)**: (Scalar)
 
-- **Emissive (Output)**: ()
+Width of the Shape of the SDF.
 
-- **Opacity (Output)**: ()
+- **Emissive (Output)**: (Vector3)
+
+Color Output.
+
+- **Opacity (Output)**: (Scalar)
+
+Alpha/Opacity Output.
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
