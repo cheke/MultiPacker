@@ -65,8 +65,10 @@
 ![TN-tntd-anf](/Images/TN-tntd-anf.jpg)
 
 ```
-- GetNameFromTexture: Get and set the name of the texture as the name of the *Tile*.
-- GetNameFromTextureWithAlphaSufix: Get and set the name of the texture with an sufix alpha as the name of the *Tile*. 
+- GetNameFromTexture: Get and set the name of the texture as the name
+of the *Tile*.
+- GetNameFromTextureWithAlphaSufix: Get and set the name of the
+texture with an sufix alpha as the name of the *Tile*. 
 ```
 
 - **ATex Tile Data**: Array where the information about the *Tiles* and their respectives names can be modified.
@@ -130,7 +132,8 @@
 ```
 - Material updated: Default position.
 - Dirty: shows where a change was done but not applied.
-- Apply changes: Apply the changes done and set the Dropdown to the Default position.
+- Apply changes: Apply the changes done and set the Dropdown to the
+Default position.
 ```
 
 - **Num Prints**: Number of Prints of the Material to be done, when setted larger than one this calculate the interpolation between the default scalars and vector with their Max value the described number of times nad print as *Tiles*.
@@ -144,7 +147,8 @@
 ```
 - Parameter Name: Name of the Vector (Non editable).
 - Default Vector Value: Vector to set on the Material.
-- Value Changes on Time: If enabled do a linear interpolation between the Default Vector and the Max Vector depending on the NumPrint.
+- Value Changes on Time: If enabled do a linear interpolation between
+the Default Vector and the Max Vector depending on the NumPrint.
 - Max Vector Value: Vector goal to be on the last NumPrint.
 ```
 
@@ -160,7 +164,8 @@
 ```
 - Parameter Name: Name of the Scalar (Non editable).
 - Default Value: Scalar to set on the Material.
-- Value Changes on Time: If enabled do a linear interpolation between the Default Scalar and the Max Scalar depending on the NumPrint.
+- Value Changes on Time: If enabled do a linear interpolation between 
+the Default Scalar and the Max Scalar depending on the NumPrint.
 - Max Value: Scalar goal to be on the last NumPrint.
 ```
 ## Material Node Time Parameters
@@ -184,8 +189,10 @@
 - **Auto Name Fill**: Dropdown who allows to get the name of the Material to auto set as the name. 
 
 ```
-- GetNameFromTexture: Get and set the name of the Material as the name of the *Tile*.
-- GetNameFromTextureWithAlphaSufix: Get and set the name of the Material with an sufix alpha as the name of the *Tile*. 
+- GetNameFromTexture: Get and set the name of the Material as the name
+of the *Tile*.
+- GetNameFromTextureWithAlphaSufix: Get and set the name of the
+Material with an sufix alpha as the name of the *Tile*. 
 ```
 
 - **AMat Tile Data**: Array where the information about the *Tiles* and their respectives names can be modified.
