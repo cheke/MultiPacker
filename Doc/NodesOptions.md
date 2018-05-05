@@ -123,15 +123,17 @@
 
 ![TM-mnp](/Images/TM-mnp.jpg)
 
-- Category where the Material expand their Parameters to be modified, the modification can be done by a timer also, explained better on **Material Node Time Parameters**.
+- Category where the Material expand their Parameters to be modified, the modification can be done by a timer also and do some number of *Tiles* by time.
 
 - **Material Button**: Dropdown who apply the changes on the material.
+
 ```
 - Material updated: Default position.
 - Dirty: shows where a change was done but not applied.
 - Apply changes: Apply the changes done and set the Dropdown to the Default position.
 ```
-- **Num Prints**: Number of Prints of the Material to be done (intended to work with time activated (also better explained on **Material Node Time Parameters**)).
+
+- **Num Prints**: Number of Prints of the Material to be done, when setted larger than one this calculate the interpolation between the default scalars and vector with their Max value the described number of times nad print as *Tiles*.
 
 ### Parameters Array
 
@@ -141,9 +143,9 @@
 
 ```
 - Parameter Name: Name of the Vector (Non editable).
-- Default Vector Value:
-- Value Changes on Time:
-- Max Vector Value:
+- Default Vector Value: Vector to set on the Material.
+- Value Changes on Time: If enabled do a linear interpolation between the Default Vector and the Max Vector depending on the NumPrint.
+- Max Vector Value: Vector goal to be on the last NumPrint.
 ```
 
 - **Texture Parameter**: Array with the Texture Parameters of the Material.
@@ -157,9 +159,9 @@
 
 ```
 - Parameter Name: Name of the Scalar (Non editable).
-- Default Value:
-- Value Changes on Time:
-- Max Value:
+- Default Value: Scalar to set on the Material.
+- Value Changes on Time: If enabled do a linear interpolation between the Default Scalar and the Max Scalar depending on the NumPrint.
+- Max Value: Scalar goal to be on the last NumPrint.
 ```
 ## Material Node Time Parameters
 
