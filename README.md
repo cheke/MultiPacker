@@ -1,5 +1,5 @@
 # MultiPacker
-MultiPacker is an Unreal Engine 4 Plugin editor for manipulate Textures and Bake Materials, Channel Packing or SDF Images; everything done inside Unreal Engine. 
+MultiPacker is an Unreal Engine 4 Plugin editor for manipulate Textures and Bake Materials, Channel Packing or SDF Images; all done inside Unreal Engine. 
 
 Its greatly helpful for Mobile Projects, allowing a great save of texture memory. 
 
