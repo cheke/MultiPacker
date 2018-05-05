@@ -64,9 +64,10 @@
 
 ![TN-tntd-anf](/Images/TN-tntd-anf.jpg)
 
+```
 - GetNameFromTexture: Get and set the name of the texture as the name of the *Tile*.
-
 - GetNameFromTextureWithAlphaSufix: Get and set the name of the texture with an sufix alpha as the name of the *Tile*. 
+```
 
 - **ATex Tile Data**: Array where the information about the *Tiles* and their respectives names can be modified.
 
@@ -117,5 +118,76 @@
 - **Size Vertical**: Height size of the *Tile*.
 
 - **Size Horizontal**: Width size of the *Tile*.
+
+## Material Node Parameters
+
+![TM-mnp](/Images/TM-mnp.jpg)
+
+- Category where the Material expand their Parameters to be modified, the modification can be done by a timer also, explained better on **Material Node Time Parameters**.
+
+- **Material Button**: Dropdown who apply the changes on the material.
+```
+- Material updated: Default position.
+- Dirty: shows where a change was done but not applied.
+- Apply changes: Apply the changes done and set the Dropdown to the Default position.
+```
+- **Num Prints**: Number of Prints of the Material to be done (intended to work with time activated (also better explained on **Material Node Time Parameters**)).
+
+### Parameters Array
+
+- Subcategory where all the parameters of the Material shows and can be modified.
+
+- **Vector Parameter**: Array with the Vector Parameters of the Material.
+
+```
+- Parameter Name: Name of the Vector (Non editable).
+- Default Vector Value:
+- Value Changes on Time:
+- Max Vector Value:
+```
+
+- **Texture Parameter**: Array with the Texture Parameters of the Material.
+
+```
+- Parameter Name: Name of the Texture (Non editable).
+- Texture: Texture Input editable to change.
+```
+
+- **Scalar Parameter**: Array with the Vector Parameters of the Material.
+
+```
+- Parameter Name: Name of the Scalar (Non editable).
+- Default Value:
+- Value Changes on Time:
+- Max Value:
+```
+## Material Node Time Parameters
+
+- Category to Change the Time Parameter on the Material. Not the *Material Time node*, this is a scalar node named Time on the Material to work with this method to simulates the *Material Time node* and allows print the Material between times or on a specified time.
+
+- **Time Parameter**: Enable to can change the Period or the Specific Time.
+
+- **Period**: Time is a linear increment from 0 to Period(default 1), here you defines the Period.
+
+- **Specific Time**: Enable to use the Period as a Static Time Parameter.
+
+## Material Node Tile Database
+
+![TM-mntdb](/Images/TM-mntdb.jpg)
+
+- Category where you set the name of every individual *Tile* coming from the Material.
+
+- **Auto Name Fill**: Dropdown who allows to get the name of the Material to auto set as the name. 
+
+```
+- GetNameFromTexture: Get and set the name of the Material as the name of the *Tile*.
+- GetNameFromTextureWithAlphaSufix: Get and set the name of the Material with an sufix alpha as the name of the *Tile*. 
+```
+
+- **AMat Tile Data**: Array where the information about the *Tiles* and their respectives names can be modified.
+
+- **Tile Texture**: Preview RenderTarget of the *Tile*, shows up after the graph is processed.
+
+- **Tile Name**: Name editable of the *Tile*.
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
