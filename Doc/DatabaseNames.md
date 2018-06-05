@@ -7,14 +7,14 @@ for UMG you get the Name from a Dropdown selector and all the data its loaded(Te
 
 - Name on the Texture Node
 
-![nameTex](/Images/nameTex.jpg)
+![nameTex](/MultiPacker/Images/nameTex.jpg)
 
 - Name on the MultiPacker Database
 
-![nameDatabase](/Images/nameDatabase.jpg)
+![nameDatabase](/MultiPacker/Images/nameDatabase.jpg)
 
 - Name on the Material Collection
 
-![nameCollection](/Images/nameCollection.jpg)
+![nameCollection](/MultiPacker/Images/nameCollection.jpg)
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
