@@ -8,7 +8,7 @@
 
 # MultiPacker Image
 
-![umg-i](/Images/umg-i.jpg)
+![umg-i](/MultiPacker/Images/umg-i.jpg)
 
 - The changes are only on the Appearance Category.
 
@@ -18,21 +18,21 @@
 - 2_Layers: You can set the base and addition layer. Ex: A circle with a icon.
 - 3_Layers: You can set the base, addition and detail layers. Ex: A circle with a icon and an indicator of selection.
 ```
-![umg-i](/Images/umg-ie.jpg)
+![umg-i](/MultiPacker/Images/umg-ie.jpg)
 
 ## Layers
 
-![umg-layers](/Images/umg-layers.jpg)
+![umg-layers](/MultiPacker/Images/umg-layers.jpg)
 
 - **Layer 1, Layer 2 and Layer 3**: Are an internal booleans non editables.
 
 ### Base, Addition and Detail
 
-![umg-layersexp](/Images/umg-layersexp.jpg)
+![umg-layersexp](/MultiPacker/Images/umg-layersexp.jpg)
 
 - This three subcategories have the same variables. On one time explain it. 
 
-![umg-layers](/Images/umg-layersdataexp.jpg)
+![umg-layers](/MultiPacker/Images/umg-layersdataexp.jpg)
 
 ### Color
 
@@ -50,11 +50,11 @@
 
 - **Name**: Dropdown that changes with the selected Database. Select the *Tile* from here.
 
-![umg-layersdatasel](/Images/umg-layersdatasel.jpg)
+![umg-layersdatasel](/MultiPacker/Images/umg-layersdatasel.jpg)
 
-![umg-layersdataselname](/Images/umg-layersdataselname.jpg)
+![umg-layersdataselname](/MultiPacker/Images/umg-layersdataselname.jpg)
 
-![umg-layers](/Images/umg-layersdataexp.jpg)
+![umg-layers](/MultiPacker/Images/umg-layersdataexp.jpg)
 
 - **SDF**: This is auto set by the database.
 
@@ -74,9 +74,9 @@
 
 - Multipacker Button has the same variables as MultiPacker Image, only extended to the states of the button Normal, Hovered, Pressed and Disables. To a better knowledge of the ussage of the variables look at [MultiPacker Image](https://cheke.github.io/MultiPacker/Doc/Umg.md#multipacker-image)
 
-![umg-b](/Images/umg-b.jpg)
+![umg-b](/MultiPacker/Images/umg-b.jpg)
 
-![umg-bexp](/Images/umg-bexp.jpg)
+![umg-bexp](/MultiPacker/Images/umg-bexp.jpg)
 
 - **Set Disabled Style**: Enables the use of the State Disable on the Button.
 
