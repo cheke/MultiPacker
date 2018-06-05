@@ -4,13 +4,13 @@ The MultiPacker Graph has a lot of options to process the Output Assets and all 
 
 I will explain all of these by the Category and Subcategory
 
-![categories](/Images/categories.jpg)
+![categories](/MultiPacker/Images/categories.jpg)
 
 ## Texture Size Output
 
 On this Category you can select the Size for every individual Tile for the Default option, or if you enable *Rectangle Tiles* on the subcategory *Tiled Options* you can set the method of your choice to set the *Tiles* and set the Output Size X and Y.
 
- ![c_texturesizeoutput](/Images/c_texturesizeoutput.jpg)
+ ![c_texturesizeoutput](/MultiPacker/Images/c_texturesizeoutput.jpg)
 
 - **Texture Tile Size Output**: Size for every *Tile* who will be saved on the Output Texture, The Size for the Output Texture is calculated by the numbers of *Tiles* and the user cant select it.
 
@@ -32,7 +32,7 @@ rect into which it fits.
 touches other rects as much as possible.
 ```
 
-![c_to_rectanglemethod](/Images/c_to_rectanglemethod.jpg)
+![c_to_rectanglemethod](/MultiPacker/Images/c_to_rectanglemethod.jpg)
 
 ```
 On a future workaround and addition I will do a change on all the
@@ -44,20 +44,20 @@ Tiles more bigger to smaller to allow a better allocation.
 
 - **Output Size Y**: From a Dropdown selection you can set the Vertical/Height Size of the Texture Output.
 
-![c_to_outputsize](/Images/c_to_outputsize.jpg)
+![c_to_outputsize](/MultiPacker/Images/c_to_outputsize.jpg)
 
 ## Output Config
 
-![c_oc](/Images/c_oc.jpg)
+![c_oc](/MultiPacker/Images/c_oc.jpg)
 
 ### Channels Options
 
-![c_oc_channelOptions](/Images/c_oc_channelOptions.jpg)
+![c_oc_channelOptions](/MultiPacker/Images/c_oc_channelOptions.jpg)
 
 - **Channel Method**: From a Dropdown selection you can select the method to save the *Tiles* on the Output Texture.
 The Methods are explained here [Basic Knowledge](https://cheke.github.io/MultiPacker/Doc/Basic).
 
-![c_oc_channelOptions-expanded](/Images/c_oc_channelOptions-expanded.jpg)
+![c_oc_channelOptions-expanded](/MultiPacker/Images/c_oc_channelOptions-expanded.jpg)
 
 - **Alpha**: This Enables or Disables the Alpha Channel on the Output Texture.
 
@@ -65,7 +65,7 @@ The Methods are explained here [Basic Knowledge](https://cheke.github.io/MultiPa
 
 This Subcategory manages the creation of the MultiPacker Database and Material Collection Assets from the Graph, you can deselect then and dont be created and saved. By default are enabled.
 
-![c_oc_savedata](/Images/c_oc_savedata.jpg)
+![c_oc_savedata](/MultiPacker/Images/c_oc_savedata.jpg)
 
 - **Save Material Collection**: Enables the creation of the Material Collection Asset with the Data from the Graph.
 
@@ -75,7 +75,7 @@ This Subcategory manages the creation of the MultiPacker Database and Material C
 
 Location has some variables to change the destination location where the Output Assets will be saved and the base name for all of them.
 
-![c_oc_location](/Images/c_oc_location.jpg)
+![c_oc_location](/MultiPacker/Images/c_oc_location.jpg)
 
 - **Target Directory**: This variable will open a window where you will select the desired location to save the Assets.
 
@@ -85,7 +85,7 @@ Location has some variables to change the destination location where the Output 
 
 This allows you to change the Prefix on the created Assets to mantain a constant *Naming Convention* on your project.
 
-![c_oc_prefix](/Images/c_oc_prefix.jpg)
+![c_oc_prefix](/MultiPacker/Images/c_oc_prefix.jpg)
 
 - **Edit Prefix**: Enables change the Prefix.
 
@@ -99,19 +99,19 @@ This allows you to change the Prefix on the created Assets to mantain a constant
 
 Here you set the Pixel Quality for the Render Targets invilved on the Creation of the Output Texture; the Internals of this process will be described on a future.
 
-![c_oc_renderTargetInternal](/Images/c_oc_renderTargetInternal.jpg)
+![c_oc_renderTargetInternal](/MultiPacker/Images/c_oc_renderTargetInternal.jpg)
 
 - **Edit RT**: Enables change the RenderTargets.
 
 - **RT Pixel Format**: Changes the format for the Rendertargets, this is intended to people who needed it, I dont have information about the ussage of the variables, can be enabled on special scenarios.
 
- ![c_oc_renderTargetInternal-expanded](/Images/c_oc_renderTargetInternal-expanded.jpg)
+ ![c_oc_renderTargetInternal-expanded](/MultiPacker/Images/c_oc_renderTargetInternal-expanded.jpg)
 
 ### Texture Output
 
 Here you can change the parameters for the Output Texture(s)
 
-![c_oc_textureOutput](/Images/c_oc_textureOutput.jpg)
+![c_oc_textureOutput](/MultiPacker/Images/c_oc_textureOutput.jpg)
 
 - **Edit Texture**: Enables change parameters for the Texture(s).
 
@@ -139,13 +139,13 @@ interpreted as a direction and thus should not be gamma corrected.
 
 ### OutPut Data
 
-![c_od](/Images/c_od.jpg)
+![c_od](/MultiPacker/Images/c_od.jpg)
 
 Here will be the references to the Output Assets saved, you can expand the Texture Output to shoe the different Textures.
 
 - **Texture Output**: Array who shows the Output Textures.
 
-![c_od_expanded](/Images/c_od_expanded.jpg)
+![c_od_expanded](/MultiPacker/Images/c_od_expanded.jpg)
 
 - **Database**: Database Output saved.
 
