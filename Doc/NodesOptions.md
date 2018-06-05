@@ -93,7 +93,7 @@ texture with an sufix alpha as the name of the *Tile*.
 
 ## Material Node
 
-![TM-mn](/Images/TM-mn.jpg)
+![TM-mn](/MultiPacker/Images/TM-mn.jpg)
 
 - **Material Base Input**: Reference to the Material or Material Instance Input to work as a *Tile*.
 
