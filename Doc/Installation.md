@@ -18,6 +18,8 @@
 
 -You need to enable MultiPacker inside the Unreal Engine Project you want to use
 
+-To see the Content of the Plugin You need to Enable on the Content Broser "Show Plugin Content" & "Show Engine Content".
+
 -Done
 
 ## Gumroad
@@ -34,6 +36,8 @@
 ![Generate](/MultiPacker/Images/4_generate.jpg)
 
 -You need to enable MultiPacker inside the Unreal Engine Project
+
+-To see the Content of the Plugin You need to Enable on the Content Broser "Show Plugin Content".
 
 -Done
 
