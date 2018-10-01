@@ -68,6 +68,8 @@
 
 - **Base SDFThresold**: You set here the Thresold of the SDF, allowing thicking or growing the shape. *(The Variable can be moddified via animation)*
 
+- **Layer (Base, Addition or Detail) Style**: Load from an Asset the Layer Parameters, this method allows easy changes and iterations between Widgets.
+
 # MultiPacker Button
 
 - Multipacker Button has the same variables as MultiPacker Image, only extended to the states of the button Normal, Hovered, Pressed and Disables. To a better knowledge of the ussage of the variables look at [MultiPacker Image](https://cheke.github.io/MultiPacker/Doc/Umg.md#multipacker-image)
