@@ -36,7 +36,7 @@ and save memory.
 
   [MarketPlace & Gumroad](https://cheke.github.io/MultiPacker/Doc/Installation)
 
-- [MultiPacker Graph](https://cheke.github.io/MultiPacker/Doc/Graph)
+- [MultiPacker Graph & Runtime Graph](https://cheke.github.io/MultiPacker/Doc/Graph)
 
 - [Basic Knowledge](https://cheke.github.io/MultiPacker/Doc/Basic)
 
