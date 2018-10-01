@@ -19,9 +19,15 @@ allowed).
 -Data saved on a Material Collection and on a MultiPackerDatabase.
 -With the Material Collection and a set of Material Function you can
 extract the Texture and use on Materials.
--With the MultiPackerDatabase you can make Runtime Icons and Buttons
+-With the MultiPackerDatabase you can make UMG Images and Buttons
 and Animate It.
 -Material Functions to Personal Material uses.
+-An dedicated Asset To set a LayerStyle allowing reuse the style 
+on some UMG components and save time with iterations.
+-Material Runtime Graph is a graph who bakes on runtime the assets 
+selected and made on memory an RenderTarget to get the result 
+"Textures", great to create programatically textures like noise, 
+and save memory.
 ```
 
 ## Links
