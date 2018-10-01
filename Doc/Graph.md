@@ -2,12 +2,12 @@
 
 Create an MultiPacker like another assets
 
-![Marketplace](/MultiPacker/Images/MultiPackerGraphAssetCreation.jpg)
+![Marketplace](/MultiPacker/Images/MultiPackerGraphAssetCreation.png)
 ![Marketplace](/MultiPacker/Images/assetMP.jpg)
 
 The MultiPacker Graph looks and works like the Material Graph but with have some little differences.
 
-![Marketplace](/MultiPacker/Images/MPGraph.jpg)
+![Marketplace](/MultiPacker/Images/MPGraph.png)
 
 1. Toolbar Menu
 
