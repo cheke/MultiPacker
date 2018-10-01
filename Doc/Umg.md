@@ -22,19 +22,17 @@
 
 ## Layers
 
-![umg-layers](/MultiPacker/Images/umg-layers.jpg)
-
-- **Layer 1, Layer 2 and Layer 3**: Are an internal booleans non editables.
+![umg-layers](/MultiPacker/Images/sc_LayersUMG.jpg)
 
 ### Base, Addition and Detail
 
-![umg-layersexp](/MultiPacker/Images/umg-layersexp.jpg)
+![umg-layersexp](/MultiPacker/Images/sc_layersExpanded.jpg)
 
 - This three subcategories have the same variables. On one time explain it. 
 
-![umg-layers](/MultiPacker/Images/umg-layersdataexp.jpg)
+![umg-layers](/MultiPacker/Images/sc_layerbaseexpanded.jpg)
 
-### Color
+### Color Database
 
 - Here you select the interior look of the Layer, can be a color or a *Tile*.
 
@@ -42,7 +40,7 @@
 
 - **Name**: Dropdown that changes with the selected Database. Select the *Tile* from here.
 
-### Alpha
+### Alpha Database
 
 - Here you select the Opacity mask of the Layer from a *Tile*.
 
@@ -50,17 +48,17 @@
 
 - **Name**: Dropdown that changes with the selected Database. Select the *Tile* from here.
 
-![umg-layersdatasel](/MultiPacker/Images/umg-layersdatasel.jpg)
+![umg-layersdatasel](/MultiPacker/Images/sc_layersMPDselection.jpg)
 
-![umg-layersdataselname](/MultiPacker/Images/umg-layersdataselname.jpg)
-
-![umg-layers](/MultiPacker/Images/umg-layersdataexp.jpg)
+![umg-layersdataselname](/MultiPacker/Images/sc_layersNameSelection.jpg)
 
 - **SDF**: This is auto set by the database.
 
-- **Use Color**: You can set a color as the interior look.
+- **Use Color**: On false gives on Raw the Texture of Color Database, on True the Color Interior Selected Fills the Shape.
 
-- **Outline**: If the Layers is SDF you can set an Outline and set a color.
+- **Outline**: Activate and set a color as the Outline of the SDF Shape.
+
+- **Edge Softness**: Gives a Soft Border on SDF Shapes, avoids aliasing.
 
 - **Base Color Outline**: You set here an RGB color for the outline Layer. *(The Variable can be moddified via animation)*
 
