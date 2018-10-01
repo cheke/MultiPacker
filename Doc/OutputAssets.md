@@ -34,4 +34,14 @@
 
 ![captures_database](/MultiPacker/Images/captures_database.jpg)
 
+## MultiPacker Runtime Graph
+
+![MPGraph](/MultiPacker/Images/sc_multipackerRuntimeAsset.jpg)
+
+- MultiPacker Runtime Graph its like the normal Graph but works on Runtime, Only works with Materials.
+- The Graph process all the nodes and generates a RenderTarget.
+- The goal of MultiPacker Runtime Graph is to make some Textures who can be created by shaders, like noise or some type of shaders baked on runtime, allowing save that memory cost on disk, and processing it on runtime.
+- The Graph save on a Internal Database the location of the Tiles, saving the cost of Calculate the BinPacking on Runtime, but have some blueprint functions to set more Materials on runtime.
+- At difference of MultiPacker Graph this Asset needs to be cooked and be on the Build.
+
 [**Home Docs**](https://cheke.github.io/MultiPacker)
