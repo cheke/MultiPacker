@@ -34,5 +34,13 @@ The MultiPacker Graph looks and works like the Material Graph but with have some
 4. Details Panel
     
     On this Panel all the Information related to the Graph and the Nodes will show up, here you can change all the options.
+    
+# MultiPacker Runtime Graph
+
+Create an MultiPacker Runtime like another assets
+
+![runtime](/MultiPacker/Images/sc_createRuntimegraph.png)
+
+- MultiPacker Runtime Graph has the same Layout as the MultiPacker Graph.
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
