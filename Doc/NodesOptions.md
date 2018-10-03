@@ -1,4 +1,4 @@
-# Nodes Options
+# MultiPacker Graph Nodes Options
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
 
@@ -204,5 +204,7 @@ Material with an sufix alpha as the name of the *Tile*.
 - **Tile Texture**: Preview RenderTarget of the *Tile*, shows up after the graph is processed.
 
 - **Tile Name**: Name editable of the *Tile*.
+
+# MultiPacker Runtime Graph Nodes Options
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
