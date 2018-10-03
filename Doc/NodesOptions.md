@@ -85,6 +85,9 @@ texture with an sufix alpha as the name of the *Tile*.
 
 - The Material Node its the node to modify the input data *Tile* from the Material or Material Instance, the Material Node has some variables in common with the Texture Node.
 
+
+- The Material Node Only has One Pin Output who its the Output of the Emissive Color on the Material.
+
 ![MaterialNode](/MultiPacker/Images/MaterialNode.jpg)
 
 - Details Panel
@@ -206,5 +209,21 @@ Material with an sufix alpha as the name of the *Tile*.
 - **Tile Name**: Name editable of the *Tile*.
 
 # MultiPacker Runtime Graph Nodes Options
+
+# Material Node
+
+![sc_runtimematerialnode](/MultiPacker/Images/TM-sc_runtimematerialnode.jpg)
+
+- The Material Node Only has One Pin Output who its the Output of the Emissive Color on the Material.
+
+![sc_runtime_materialnodeOptions](/MultiPacker/Images/TM-sc_runtime_materialnodeOptions.jpg)
+
+- **Material Base Input**: Reference to the Material or Material Instance Input to work as a *Tile*.
+
+- **Height**: Height size of the *Tile*.
+
+- **Width**: Width size of the *Tile*.
+
+- **Material Size**: Dropdown to set from a list of sizes a value to the Height and the Width sizes.
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
