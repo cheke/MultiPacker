@@ -19,10 +19,10 @@ On this Category you can select Parameters for the Output Render Target.
 
 ## Bin Pack
 
-Here are showed some information about the Tiles, are more intended to debug an analize the result of the configuration of the Tiles than to change parameters.
+Here are showed some information about the Tiles, are more intended to debug an analize the result of the configuration of the Tiles than to change parameters. The Information are esentially the same as the DatabaseName. 
 
  ![sc_runtimebinPack](/MultiPacker/Images/sc_runtimebinPack.jpg)
  
-- [Tile Data Base](https://cheke.github.io/MultiPacker/Doc/DatabaseNames)
+- [BinPack](https://cheke.github.io/MultiPacker/Doc/DatabaseNames)
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
