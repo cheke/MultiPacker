@@ -39,7 +39,7 @@ The MultiPacker Graph looks and works like the Material Graph but with have some
 
 Create an MultiPacker Runtime like another assets
 
-![runtime](/MultiPacker/Images/sc_createRuntimegraph.png)
+![runtime](/MultiPacker/Images/sc_createRuntimegraph.jpg)
 
 - MultiPacker Runtime Graph has the same Layout as the MultiPacker Graph.
 
