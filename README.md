@@ -40,7 +40,9 @@ and save memory.
 
 - [Basic Knowledge](https://cheke.github.io/MultiPacker/Doc/Basic)
 
-- [Output Options](https://cheke.github.io/MultiPacker/Doc/OutputOptions)
+- [MultiPacker Graph Output Options](https://cheke.github.io/MultiPacker/Doc/OutputOptions)
+
+- [MultiPacker Runtime Graph Output Options](https://cheke.github.io/MultiPacker/Doc/RuntimeOutputOptions)
 
 - [Output Assets](https://cheke.github.io/MultiPacker/Doc/OutputAssets)
 
