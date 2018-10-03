@@ -141,4 +141,10 @@ Here will be the references to the Output Assets saved, you can expand the Textu
 
 - **Material Collection**: Material Collection Output saved. 
 
+### Tile Data Base
+
+Here are showed some information about the Tiles, are more intended to debug an analize the result of the configuration of the Tiles than to change parameters.
+
+- [Tile Data Base](https://cheke.github.io/MultiPacker/Doc/DatabaseNames)
+
 [**Home Docs**](https://cheke.github.io/MultiPacker)
