@@ -46,9 +46,7 @@ and save memory.
 
 - [Output Assets](https://cheke.github.io/MultiPacker/Doc/OutputAssets)
 
-- [Nodes Options](https://cheke.github.io/MultiPacker/Doc/NodesOptions)
-
-  [Output Node, Texture Node and Material Node](https://cheke.github.io/MultiPacker/Doc/NodesOptions)
+- [Graphs Nodes Options](https://cheke.github.io/MultiPacker/Doc/NodesOptions)
   
 - [UMG](https://cheke.github.io/MultiPacker/Doc/Umg)
 
