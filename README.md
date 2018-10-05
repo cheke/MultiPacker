@@ -34,17 +34,16 @@ and save memory.
 
 - [Installation](https://cheke.github.io/MultiPacker/Doc/Installation)
 
-  [MarketPlace & Gumroad](https://cheke.github.io/MultiPacker/Doc/Installation)
-
-- [MultiPacker Graph & Runtime Graph](https://cheke.github.io/MultiPacker/Doc/Graph)
-
 - [Basic Knowledge](https://cheke.github.io/MultiPacker/Doc/Basic)
 
-- [MultiPacker Graph Output Options](https://cheke.github.io/MultiPacker/Doc/OutputOptions)
+- Graph & Nodes
+  - [MultiPacker Assets](https://cheke.github.io/MultiPacker/Doc/OutputAssets)
+
+  - [MultiPacker Graph & Runtime Graph](https://cheke.github.io/MultiPacker/Doc/Graph)
+
+  - [MultiPacker Graph Output Options](https://cheke.github.io/MultiPacker/Doc/OutputOptions)
 
 - [MultiPacker Runtime Graph Output Options](https://cheke.github.io/MultiPacker/Doc/RuntimeOutputOptions)
-
-- [Output Assets](https://cheke.github.io/MultiPacker/Doc/OutputAssets)
 
 - [Graphs Nodes Options](https://cheke.github.io/MultiPacker/Doc/NodesOptions)
   
