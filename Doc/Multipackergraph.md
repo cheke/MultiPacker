@@ -4,7 +4,7 @@
 
 - Navigating to your Content Browser, click Add New and go to the MultiPacker category.
 
-![Marketplace](/MultiPacker/Images/sc_newasset.png)
+![Marketplace](/MultiPacker/Images/sc_newasset.jpg)
 
 - Select MultiPacker Graph.
 
