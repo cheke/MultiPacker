@@ -20,15 +20,17 @@
 
 ## Texture Node
 
-![TN-tnexpanded](/MultiPacker/Images/TN-tnexpanded.jpg)
+![TN-tnexpanded](/MultiPacker/Images/sc_texturenodeexpanded.jpg)
 
 - **Texture Input**: Reference to the Texture Input to work as a *Tile*.
 
 - **SDF**: Enables process the Texture as a Signed Distant Field, usually this is for Alpha Masks.
 
+- **MSDF**: If activated this texture will be marked as an MSDF, to get an auto decode with the database.
+
 ### Tiled Options
 
-![TN-tn-to](/MultiPacker/Images/TN-tn-to.jpg)
+![TN-tn-to](/MultiPacker/Images/sc_texturenodeTiledexpanded.jpg)
 
 - On this Subcategory you defines the Number of Columns and Rows if the Input Texture have a Tiled set of Textures inside and you want to extract then as individual *Tiles*, everyone will have a name.
 
@@ -38,7 +40,7 @@
 
 ### Non Square Size
 
-![TN-tn-nss](/MultiPacker/Images/TN-tn-nss.jpg)
+![TN-tn-nss](/MultiPacker/Images/sc_texturenodenonexpanded.jpg)
 
 - This Subcategory allows set the size for Textures with different width than height, resize or modify by needs. Is enabled only if the Graph has Enabled the option *Rectangle Tiles*.
 
@@ -46,7 +48,7 @@
 
 - **Auto Size Fill**: Dropdown to set the size from the Inut Texture with the Option: GetTextureSize.
 
-![TN-tn-nssex](/MultiPacker/Images/TN-tn-nssex.jpg)
+![TN-tn-nssex](/MultiPacker/Images/sc_texturenodesutosizefillexpanded.jpg)
 
 - **Set Size by Parameter**: Dropdown to set from a list of sizes a value to the vertical and the horizontal sizes.
 
