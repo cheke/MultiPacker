@@ -1,4 +1,4 @@
-# Output Assets
+# MultiPacker Assets
 
 ## MultiPacker Graph
 
