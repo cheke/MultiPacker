@@ -75,11 +75,21 @@
 
 ## Use on UMG
 
+- Use the LayerDatabase Asset on a UMG Componeent from MultiPacker is fast and easy
+
+- Example of use with MultiPacker Image component.
+
 ![umg-layersdatasel](/MultiPacker/Images/sc_layerdatabaseImage.jpg)
+
+- You can select from a list the LayerDatabase asset or drop it.
 
 ![umg-layersdatasel](/MultiPacker/Images/sc_layerdatabaseImageselection.jpg)
 
+- With the asset Selected automatically the parameters are filled and changed.
+
 ![umg-layersdatasel](/MultiPacker/Images/sc_layerdatabaseimageselected.jpg)
+
+- The Only parameters who need interaction are the Booleans "Use Color" and "Outline" to activate it.
 
 ![umg-layersdatasel](/MultiPacker/Images/sc_layerdatabaseimagesetbools.jpg)
 
