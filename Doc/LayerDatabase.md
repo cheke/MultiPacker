@@ -65,12 +65,22 @@
 
 - **Edge Softness**: Gives a Soft Border on SDF Shapes, avoids aliasing.
 
-- **Base Color Outline**: You set here an RGB color for the outline Layer. *(The Variable can be moddified via animation)*
+- **Color Outline**: You set here an RGB color for the outline Layer. *(The Variable can be moddified via animation)*
 
-- **Base Color Interior**: You set here an RGB color for the interior Layer. *(The Variable can be moddified via animation)*
+- **Color Interior**: You set here an RGB color for the interior Layer. *(The Variable can be moddified via animation)*
 
-- **Base Outline Thresold**: You set here the width of the Outline, the Outline applies inside the shape. *(The Variable can be moddified via animation)*
+- **Outline Thresold**: You set here the width of the Outline, the Outline applies inside the shape. *(The Variable can be moddified via animation)*
 
-- **Base SDFThresold**: You set here the Thresold of the SDF, allowing thicking or growing the shape. *(The Variable can be moddified via animation)*
+- **SDFThresold**: You set here the Thresold of the SDF, allowing thicking or growing the shape. *(The Variable can be moddified via animation)*
+
+## Use on UMG
+
+![umg-layersdatasel](/MultiPacker/Images/sc_layerdatabaseImage.jpg)
+
+![umg-layersdatasel](/MultiPacker/Images/sc_layerdatabaseImageselection.jpg)
+
+![umg-layersdatasel](/MultiPacker/Images/sc_layerdatabaseimageselected.jpg)
+
+![umg-layersdatasel](/MultiPacker/Images/sc_layerdatabaseimagesetbools.jpg)
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
