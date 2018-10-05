@@ -42,7 +42,7 @@ and save memory.
 
   - [MultiPacker Graph & Runtime Graph](https://cheke.github.io/MultiPacker/Doc/Graph)
 
-  - [MultiPacker Graph Output Options](https://cheke.github.io/MultiPacker/Doc/OutputOptions)
+  - [MultiPacker Graph Output Options](https://cheke.github.io/MultiPacker/Doc/Multipackergraph)
   
   - [MultiPacker Runtime Graph Output Options](https://cheke.github.io/MultiPacker/Doc/RuntimeOutputOptions)
   
