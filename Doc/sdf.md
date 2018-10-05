@@ -4,13 +4,13 @@
 
 ## MultiPacker allows two forms of generate SDF:
 
-### Resides on the Texture Node and on the Material Node, this method are coded on c++ internally and has been coded to Multicore Performance, at the moment dont have options to change the internal parameters.
+**-1** Resides on the Texture Node and on the Material Node, this method are coded on c++ internally and has been coded to Multicore Performance, at the moment dont have options to change the internal parameters.
   
   ![sc_sdftexture](/MultiPacker/Images/sc_sdftexture.jpg)
   
   ![sc_sdfMaterial](/MultiPacker/Images/sc_sdfMaterial.jpg)
   
-### Are accesible via Material Instance, this was the initial method an works totally on gpu, some integrated GPUs crashes with some of the higher values, for that I take this method as a personal choice, The Base Material are located on the Plugin Content,  "Material / Base" Folder.
+**-2** Are accesible via Material Instance, this was the initial method an works totally on gpu, some integrated GPUs crashes with some of the higher values, for that I take this method as a personal choice, The Base Material are located on the Plugin Content,  "Material / Base" Folder.
 
 ![sc_sdfMaterial](/MultiPacker/Images/sc_materialsdf.jpg)
 
