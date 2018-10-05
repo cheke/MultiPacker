@@ -176,13 +176,13 @@ interpreted as a direction and thus should not be gamma corrected.
 
 ### OutPut Data
 
-![c_od](/MultiPacker/Images/c_od.jpg)
+![c_od](/MultiPacker/Images/sc_mpoutputdata.jpg)
 
 Here will be the references to the Output Assets saved, you can expand the Texture Output to shoe the different Textures.
 
 - **Texture Output**: Array who shows the Output Textures.
 
-![c_od_expanded](/MultiPacker/Images/c_od_expanded.jpg)
+![c_od_expanded](/MultiPacker/Images/sc_mpoutputdataexpanded.jpg)
 
 - **Database**: Database Output saved.
 
