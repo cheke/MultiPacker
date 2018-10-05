@@ -214,11 +214,11 @@ Material with an sufix alpha as the name of the *Tile*.
 
 # Material Node
 
-![sc_runtimematerialnode](/MultiPacker/Images/TM-sc_runtimematerialnode.jpg)
+![sc_runtimematerialnode](/MultiPacker/Images/sc_runtimematerialnode.jpg)
 
 - The Material Node Only has One Pin Output who its the Output of the Emissive Color on the Material.
 
-![sc_runtime_materialnodeOptions](/MultiPacker/Images/TM-sc_runtime_materialnodeOptions.jpg)
+![sc_runtime_materialnodeOptions](/MultiPacker/Images/sc_runtime_materialnodeOptions.jpg)
 
 - **Material Base Input**: Reference to the Material or Material Instance Input to work as a *Tile*.
 
