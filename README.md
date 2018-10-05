@@ -40,8 +40,6 @@ and save memory.
 
 - **Graph & Nodes**
 
-  - [MultiPacker Graph & Runtime Graph](https://cheke.github.io/MultiPacker/Doc/Graph)
-
   - [MultiPacker Graph](https://cheke.github.io/MultiPacker/Doc/Multipackergraph)
   
   - [MultiPacker Runtime Graph](https://cheke.github.io/MultiPacker/Doc/Multipackerruntimegraph)
