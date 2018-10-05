@@ -46,6 +46,8 @@ and save memory.
   
   - [Graphs Nodes Options](https://cheke.github.io/MultiPacker/Doc/NodesOptions)
 
+- [SDF & MSDF](https://cheke.github.io/MultiPacker/Doc/sdf)
+
 - [UMG](https://cheke.github.io/MultiPacker/Doc/Umg)
 
 - [Layer Database](https://cheke.github.io/MultiPacker/Doc/LayerDatabase)
