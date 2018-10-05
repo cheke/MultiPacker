@@ -1,4 +1,4 @@
-# MultiPacker Graph Nodes Options
+# MultiPacker Graph: Nodes Options
 
 [**Home Docs**](https://cheke.github.io/MultiPacker)
 
@@ -210,7 +210,8 @@ Material with an sufix alpha as the name of the *Tile*.
 
 - **Tile Name**: Name editable of the *Tile*.
 
-# MultiPacker Runtime Graph Nodes Options
+# MultiPacker Runtime Graph: Nodes Options
+
 
 # Material Node
 
