@@ -34,5 +34,40 @@
 
 - MSDF its a more advanced technique of SDF, based on the thesis and work of Viktor Chlumsky https://github.com/Chlumsky/msdfgen .
 The Technique works with vector graphics as SVG, I made a repository on Github with the code from MsdfGen compiled to x86-64, and a bat file to select and process a SVG on a few clicks, The quality of the results are better than SDF on a great number of scenarios.
+
+   https://github.com/cheke/Msdf_BatSelector
    
+ # What Use:
+
+- After read the next part you need to know I used only SDF and MSDF from the Sizes of 16 to 64 pixels, to save the maximun possible of memory ussage.
+ 
+-To solve some questions I can tell my personal ussage on my projects:
+
+## -**SDF**:
+
+-**Pros**:
+- Its easy to Iterate.
+- If you want to combine some masks SDF from the same Texture its fast and easy. I want it to maintain the exact position of the image.
+- Works with every Texture.
+- Can be done internally on MultiPacker.
+
+-**Cons**:
+- The Definition of the shape can be loosed on some cases. The resolution can be increassed but its out of my scope do it.
+
+-**Best Scenario**:To nomal shapes on a Videogame you can use SDF.
+
+## -**MSDF**:
+
+-**Pros**:
+- The deffinition and shape can be exactly to the SVG.
+
+-**Cons**:
+- Shapes need to be clear with few bezier curves, more complicated need more resolution.
+- If you like extract some layers from the SVG its difficult, manually needs to be done and the layers will be dealigned from the original SVG.
+- Only works with SVG.
+- The iterations are harder.
+- Need to be processed via the compiled MSDFgen and imported to Unreal Engine.
+
+-**Best Scenarios**:To a number of special Icons you can use MSDF and Logotypes.
+
 [**Home Docs**](https://cheke.github.io/MultiPacker)
